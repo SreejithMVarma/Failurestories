@@ -35,6 +35,10 @@ Failure is not the end, but rather a stepping stone towards success. By sharing 
 
 A special thanks to all the contributors who have bravely shared their stories. Together, we're building a community that celebrates growth through adversity.
 
+## Explore the stories
+
+- [SHE!](https://github.com/VedasreeM/Failurestories/blob/main/SHE!.md)
+
 
 ---
 
