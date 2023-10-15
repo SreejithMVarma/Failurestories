@@ -39,7 +39,7 @@ A special thanks to all the contributors who have bravely shared their stories. 
 
 - [SHE!](https://github.com/VedasreeM/Failurestories/blob/main/SHE!.md)
 - [Tears to Cheers!](https://github.com/VedasreeM/Failurestories/blob/main/From%20Tears%20to%20Cheers.md)
-- [Rsing from Ashes!](https://github.com/VedasreeM/Failurestories/blob/main/Rising%20from%20Ashes.md)
+- [Rising from Ashes!](https://github.com/VedasreeM/Failurestories/blob/main/Rising%20from%20Ashes.md)
 
 
 ---
