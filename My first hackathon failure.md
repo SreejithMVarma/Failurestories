@@ -47,8 +47,8 @@ Early Warning Systems: Implement automated early warning systems that can send a
 By combining these solutions and leveraging publicly available data, communities can enhance their ability to monitor and respond to fires while minimizing the impact on natural resources.
 But we lacked resources and ended up by making a fire management website named Jwalah.
 link to the website:https://sites.google.com/view/fire-safety-management/home
-Actually it was a failure for me...because  at last moment of submission i was unable to open that website ...We wasted a day for this project...And fro the submission at last moment i created a website using google sites which only required less time.There are a lot of drawbacks in this website but I am happy that at least I was able to participate in it.
-I will do my best next time.It was my firest experience and i will make best experience next  time.
+Actually it was a failure for me...because  at last moment of submission i was unable to open that website ...We wasted a day for this project...And for the submission, at last moment I created a website using google sites which only required less time.There are a lot of drawbacks in this website but I am happy that at least I was able to participate in it.
+I will do my best next time.It was my first experience and I will make best experiences next  time.
 
 I'm grateful for the opportunity to collaborate with such a passionate and dedicated group, and I want to express my gratitude to NASA for hosting such an event that fosters innovation and collaboration in the space and tech community.
 
