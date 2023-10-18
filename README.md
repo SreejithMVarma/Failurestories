@@ -19,10 +19,12 @@ Failure is not the end, but rather a stepping stone towards success. By sharing 
 
 ## How to Contribute?
 
-1. **Share Your Story**:
+1. **Star :star: this repository**
+
+2. **Add Your Story**:
    - Create a new file using the provided [story template](https://github.com/VedasreeM/Failurestories/blob/main/your_story.md) and tell us about a failure or setback you've faced.
 
-2. **Submit a Pull Request**:
+3. **Submit a Pull Request**:
    - Once you've written your story, submit a pull request. We will review it and, if approved, it will be added to the repository.
 
 ## Guidelines for Sharing:
