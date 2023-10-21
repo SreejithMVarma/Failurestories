@@ -3,11 +3,16 @@ Share your failures, learn from them, and grow stronger together!
 
 ![Failures Image](https://goodmenproject.com/wp-content/uploads/2019/10/rock-climb-600x.jpg)
 
-## Introduction
-
-Welcome to Failurestories!!
+## Welcome to Failurestories!! 
 
 A repository dedicated to sharing and learning from the failures and setbacks in life. It's often said that our failures are our greatest teachers, and here we have a space to reflect, grow, and support one another.
+
+## Explore the stories
+
+- [SHE!](https://github.com/VedasreeM/Failurestories/blob/main/SHE!.md)
+- [Tears to Cheers](https://github.com/VedasreeM/Failurestories/blob/main/From%20Tears%20to%20Cheers.md)
+- [Rising from Ashes](https://github.com/VedasreeM/Failurestories/blob/main/Rising%20from%20Ashes.md)
+- [My first hackathon](https://github.com/VedasreeM/Failurestories/blob/main/My%20first%20hackathon%20failure.md)
 
 ## Why Share Failures?
 
@@ -15,10 +20,12 @@ Failure is not the end, but rather a stepping stone towards success. By sharing 
 
 ## How to Contribute?
 
-1. **Share Your Story**:
+1. **Star :star: this repository**
+
+2. **Add Your Story**:
    - Create a new file using the provided [story template](https://github.com/VedasreeM/Failurestories/blob/main/your_story.md) and tell us about a failure or setback you've faced.
 
-2. **Submit a Pull Request**:
+3. **Submit a Pull Request**:
    - Once you've written your story, submit a pull request. We will review it and, if approved, it will be added to the repository.
 
 ## Guidelines for Sharing:
@@ -35,9 +42,6 @@ Failure is not the end, but rather a stepping stone towards success. By sharing 
 
 A special thanks to all the contributors who have bravely shared their stories. Together, we're building a community that celebrates growth through adversity.
 
-## Explore the stories
-
-- [SHE!](https://github.com/VedasreeM/Failurestories/blob/main/SHE!.md)
 
 
 ---
