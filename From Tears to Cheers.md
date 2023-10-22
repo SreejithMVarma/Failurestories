@@ -22,4 +22,4 @@ The pinnacle of this resurgence was the recent victory over Manchester City, a t
 
 ---
 
-[Connect with me on GitHub: [ASHISH B](https://github.com/ASHISH-28-02)]
+Connect with me on GitHub: [ASHISH B](https://github.com/ASHISH-28-02)
