@@ -2,7 +2,7 @@
 
 ## Author: Ashish B
 
-![ASHISH B](https://github.com/ASHISH-28-02/Githober2023/blob/main/images/Ashish.jpg)
+![ASHISH B](https://github.com/ASHISH-28-02/P_._P/blob/main/IMAGES/20230507_125453.jpg)
 
 ---
 
