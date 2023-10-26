@@ -13,6 +13,7 @@ A repository dedicated to sharing and learning from the failures and setbacks in
 - [Tears to Cheers](https://github.com/VedasreeM/Failurestories/blob/main/From%20Tears%20to%20Cheers.md)
 - [Rising from Ashes](https://github.com/VedasreeM/Failurestories/blob/main/Rising%20from%20Ashes.md)
 - [My first hackathon](https://github.com/VedasreeM/Failurestories/blob/main/My%20first%20hackathon%20failure.md)
+- [The Road to Resilience](https://github.com/VedasreeM/Failurestories/blob/main/The%20Road%20to%20Resilience.md)
 
 ## Why Share Failures?
 
